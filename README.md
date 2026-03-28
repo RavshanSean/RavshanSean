@@ -1,16 +1,29 @@
-## Hi there 👋
+![banner]([https://your-image-link-here](https://images8.alphacoders.com/115/thumb-1920-1156488.png))
 
-<!--
-**RavshanSean/RavshanSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Sean (Ravshanjon)
 
-Here are some ideas to get you started:
+Full-stack developer with a strong focus on backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building real applications — APIs, databases, and logic that actually scale — not just interfaces.
+
+## 💻 What I do
+- ⚙️ Backend-focused development (core logic, APIs, performance)
+- 🌐 Full-stack apps when needed (React + backend integration)
+- 🧠 Problem solving, not just coding
+
+## 🚀 Currently
+- 🎓 Computer Science student at KBCC (CUNY)
+- 💼 Gaining real-world experience through internships
+- 🤖 Exploring AI & robotics
+
+## 🧰 Tech Stack
+- **Languages:** Python, JavaScript, C++, SQL  
+- **Backend:** Django, Node.js (Express)  
+- **Frontend:** React, Tailwind CSS  
+- **Database:** PostgreSQL  
+- **Tools:** Git, GitHub, REST APIs  
+---
+
+⚡ Full-stack by title, backend by mindset  
+⚡ I build systems, not just screens  
+⚡ Always learning, always leveling up
