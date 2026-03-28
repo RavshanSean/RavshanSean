@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" width="800"/>
+  <img src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" width="500"/>
 </p>
 
 ## 👋 Hi, I'm Sean (Ravshanjon)
