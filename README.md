@@ -8,8 +8,6 @@
 - ⚙️ Backend-focused development (core logic, APIs, performance)
 - 🌐 Full-stack apps when needed (React + backend integration)
 - 🧠 Problem solving, not just coding
-
-## 🚀 Currently
 - 🎓 Computer Science student at KBCC (CUNY)
 - 💼 Gaining real-world experience through internships
 - 🤖 Exploring AI & robotics
