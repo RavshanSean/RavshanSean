@@ -2,11 +2,7 @@
   <img src="https://raw.githubusercontent.com/RavshanSean/RavshanSean/main/github-header-banner.png" width="100%" />
 </p>
 
-## 👋 Hi, I'm Sean (Ravshanjon)
-
-Full-stack developer with a strong focus on backend systems.
-
-I enjoy building real applications — APIs, databases, and logic that actually scale — not just interfaces.
+## 👋 Hi, I'm Sean (Ravshanjon) Full-stack developer with a strong focus on backend systems. I enjoy building real applications — APIs, databases, and logic that actually scale — not just interfaces.
 
 ## 💻 What I do
 - ⚙️ Backend-focused development (core logic, APIs, performance)
@@ -23,9 +19,4 @@ I enjoy building real applications — APIs, databases, and logic that actually 
 - **Backend:** Django, Node.js (Express)  
 - **Frontend:** React, Tailwind CSS  
 - **Database:** PostgreSQL  
-- **Tools:** Git, GitHub, REST APIs  
----
-
-⚡ Full-stack by title, backend by mindset  
-⚡ I build systems, not just screens  
-⚡ Always learning, always leveling up
+- **Tools:** Git, GitHub, REST APIs 
