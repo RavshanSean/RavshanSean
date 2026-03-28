@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RavshanSean/RavshanSean/main/github-header-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/RavshanSean/RavshanSean/main/github-header-banner1.png" width="100%" />
 </p>
 
 ## Hi, I'm Sean (Ravshanjon) Full-stack developer with a strong focus on backend systems. I enjoy building real applications — APIs, databases, and logic that actually scale — not just interfaces.
